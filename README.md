@@ -8,5 +8,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://twitter.com/AramideAjax">Twitter</a>📹 ✍🏾
 - Webpage <a href="http://aramide.dev"> Aramide.dev</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/oluwafemi-olasubomi-42a568120/">LinkedIn</a> 💼
 - Public Resume <a href="https://docs.google.com/document/d/16YZ4qO2TqGLWBp8y7kNmUoZ22wpPW-f8x0C2afj-eW4">Google Docs</a>
