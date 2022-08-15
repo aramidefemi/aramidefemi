@@ -2,7 +2,7 @@
 
 # I'm Aramide 👋🏾‍💻
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Everything Javascript, Iac (AWS CDK and Terraform) and GraphQL.
 
 
 ## Find me around the web 🌎:
